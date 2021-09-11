@@ -1,0 +1,16 @@
+.image{
+    width: 60px;
+    height: 60px;
+    background-color: white;
+    margin: 40px;
+}
+.containI{
+    height: 140px;
+    transition: 0.3s;
+    width: 140px;
+}
+
+.conta {
+    padding: 2px 16px;
+    text-align: center;
+}

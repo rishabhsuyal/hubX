@@ -1,0 +1,13 @@
+.NewUser{
+    height: 300px;
+    width: 200px;
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+}
+.seeall{
+    text-decoration: none;
+    color: white;
+    background-color: #79c0d1;
+    border-radius: 20px;
+}

@@ -1,0 +1,15 @@
+.containerR{
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.con{
+    display: flex;
+    padding: 10px ;
+    margin-bottom: 20px;
+
+}
+.con1{
+    display: flex;
+    padding: 10px ;
+}
